@@ -1,5 +1,4 @@
 require 'sinatra'
-require './application_controller.rb'
+require './app.rb'
 
 run MyApp
-
